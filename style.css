@@ -1,0 +1,94 @@
+.card{
+    text-align: center;
+    font-size: 18px;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 20px;
+    margin:35px;
+}
+.heading{
+    padding-top:75px;
+    padding-bottom:25px;
+    color:white;
+    text-align:center;
+    font-style: bold;
+}
+.search-box{
+    margin:30px;
+    border-radius:60px;
+}
+
+
+.search-box input[type="text"] {
+
+  width: 400px; /* Fixed width */
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-right: none;
+  border-radius: 8px 0 0 8px;
+  outline: none;
+}
+.card-heading{
+    font-weight: 500;
+    font-size: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-para{
+    font-weight: 300;
+    font-size: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-image{
+    width: 290px;
+    height: 300px;
+    border-radius:30px;
+}
+.item-image{
+    width: 290px;
+    height: 300px;
+    border-radius:150px;
+    margin:45px;
+    padding: auto;
+}
+.menu-para{
+    margin:30px;
+    text-align:center;
+    font-weight: 300;
+    font-size: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.insta-heading{
+    padding-top:75px;
+    padding-bottom:25px;
+    padding-left:200px;
+    color:black;
+    text-align:start;
+    font-style: bold;
+}
+.insta-card-image{
+    height: 400px;
+    width:360px;
+    border-radius:30px;
+}
+.insta-image{
+    width: 290px;
+    height: 300px;
+    border-radius:50px;
+    margin:45px;
+    padding: auto;
+}
+.insta-para{
+    margin:30px;
+    text-align:center;
+    font-weight: 300;
+    font-size: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dine-image{
+    width:700px;
+    height:400px;
+}
+.dine-para{
+    color:blueviolet;
+}
